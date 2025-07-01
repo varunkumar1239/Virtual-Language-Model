@@ -1,2 +1,2 @@
 # Virtual-Language-Model
-It involves building systems capable of answering questions based on  visual input
+Vision-Language Model is intersection of computer vision(CV) and natural language processing(NLP). It involves building systems capable of answering natural language questions based on visual input. It is a typical multi modal learning task. This model works as understand the image content and interprets the question asked about the image to generate a textual manner in dynamic query response.
